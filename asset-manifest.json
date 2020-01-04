@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/React-Props-Udemy/static/js/main.f0d5e175.chunk.js",
+    "main.js.map": "/React-Props-Udemy/static/js/main.f0d5e175.chunk.js.map",
+    "runtime-main.js": "/React-Props-Udemy/static/js/runtime-main.bf2d8cb0.js",
+    "runtime-main.js.map": "/React-Props-Udemy/static/js/runtime-main.bf2d8cb0.js.map",
+    "static/js/2.c7cd1428.chunk.js": "/React-Props-Udemy/static/js/2.c7cd1428.chunk.js",
+    "static/js/2.c7cd1428.chunk.js.map": "/React-Props-Udemy/static/js/2.c7cd1428.chunk.js.map",
+    "index.html": "/React-Props-Udemy/index.html",
+    "precache-manifest.c6d3b5ea388684602e0a58b98f52f26b.js": "/React-Props-Udemy/precache-manifest.c6d3b5ea388684602e0a58b98f52f26b.js",
+    "service-worker.js": "/React-Props-Udemy/service-worker.js",
+    "static/js/2.c7cd1428.chunk.js.LICENSE": "/React-Props-Udemy/static/js/2.c7cd1428.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf2d8cb0.js",
+    "static/js/2.c7cd1428.chunk.js",
+    "static/js/main.f0d5e175.chunk.js"
+  ]
+}
